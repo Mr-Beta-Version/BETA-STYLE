@@ -1,0 +1,1 @@
+mv * $HOME/.termux
